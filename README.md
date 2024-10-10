@@ -101,13 +101,13 @@ To generate a stylized image, follow these steps:
 ## 📷 Example
 
 ### 🎨 Content Image:
-![Content Image](S:\Neural Style Transfer\input.png)
+![Content Image](./input.png)
 
 ### 🖌️ Style Image:
-![Style Image](S:\Neural Style Transfer\style.png)
+![Style Image](./style.png)
 
 ### 🧑‍🎨 Generated Image:
-![Generated Image](S:\Neural Style Transfer\generated_image.png)
+![Generated Image](./generated_image.png)
 
 ---
 
